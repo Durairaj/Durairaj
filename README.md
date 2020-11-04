@@ -23,5 +23,9 @@
 - Apache Kafka<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg"/>
 
 ## Connect
+
+- [Twitter<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
+- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
+
 [twitter]: https://twitter.com/_Durairaj_
 [linkedin]: https://linkedin.com/in/durairajsubramaniam
