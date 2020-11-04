@@ -16,7 +16,7 @@
 - Terraform<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg"/>
 - Elastic<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elastic.svg"/>
 - Prometheus<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prometheus.svg"/>
-- Istio<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Istio.svg"/>
+- Istio
 
 - React<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 - AngularJS<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angularjs.svg"/>
