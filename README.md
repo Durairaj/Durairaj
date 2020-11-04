@@ -18,7 +18,6 @@
 
 - React<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg"/>
 - AngularJS<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angularjs.svg"/>
-- Apache Kafka<img align="left" alt="android" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachekafka.svg"/>
 
 ## Connect
 
