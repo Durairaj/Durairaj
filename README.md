@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [github.com/durairaj](github.com/durairaj)
+- 👨‍💻 All of my projects are available at [github.com/durairaj](https://github.com/durairaj)
 
 - 💬 Ask me about **technologies below**
 
