@@ -43,8 +43,4 @@
       alt="durairaj"
     /></p>
 
-<p> <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=durairaj&include_all_commits=true&hide_border=true"
-      alt="durairaj"
-    /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durairaj&" alt="durairaj" /></p>
