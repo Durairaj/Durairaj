@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/durairaj](https://github.com/durairaj)
 
-- 💬 Ask me about **technologies below**
+- 💬 Ask me about ** the technologies below**
 
-- 📫 How to reach me **LINKEDIN**
+- 📫 How to reach me **Please use LINKEDIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
