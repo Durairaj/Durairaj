@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Durairaj Subramaniam</h1>
-<h3 align="center">🌍 Tech Nomad | 🚀 Building My Dream Product</h3>
+<h3 align="center">🌍 Tech Nomad (Javascript/Node/Python/Java/Rust) | 🚀 Building My Dream Product</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=durairaj&label=Profile%20views&color=0e75b6&style=flat" alt="durairaj" />
