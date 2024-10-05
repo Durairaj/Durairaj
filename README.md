@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Durairaj Subramaniam</h1>
-<h3 align="center">🌍 Tech Nomad (Javascript/Node/Python/Java/Rust) | 🚀 Building My Dream Product</h3>
+<h3 align="center">🌍 Tech Nomad (JavaScript / Node / Python / Java / Rust) | 🚀 Building My Dream Product</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=durairaj&label=Profile%20views&color=0e75b6&style=flat" alt="durairaj" />
@@ -40,8 +40,22 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
- 
+  <strong>JavaScript</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  
+  <strong>Node.js</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  
+  <strong>Python</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  
+  <strong>Java</strong>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  
+  <strong>Rust</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
 </p>
+
 
 ---
 
