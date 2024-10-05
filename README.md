@@ -8,7 +8,7 @@
 ---
 
 ### 🔭 Current Projects
-- **Working on:** Some awesome projects/tools
+- **Working on:** Some awesome projects/tools for www.swiftbazaar.com 
 
 ### 🌱 Learning
 - **Currently diving into:** Rust
